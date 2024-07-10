@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("hi/n");//a
+    printf("hi/n");//git
 
     
 }
